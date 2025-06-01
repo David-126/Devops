@@ -1,0 +1,4 @@
+zone "davidsajadi.com" {
+type master;
+file "/etc/bind/zones/davidsajadi.com.deb";
+};
